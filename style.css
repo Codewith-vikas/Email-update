@@ -1,0 +1,37 @@
+.box{
+    border: 5px solid black;
+    width: 250px;
+    padding: 14px;
+    padding-bottom: 9px;
+    border-radius: 10px;
+    margin-top: 167px;
+    margin-left: 484px;
+
+
+}
+.desing{
+    margin-left: 9px;
+}
+.first{
+    margin-top: 20px;
+}
+.box{
+    background-color: aquamarine;
+}
+.first{
+    border-radius: 5px;
+}
+.second{
+    border-radius: 5px;
+}
+.desing{
+    background-color: skyblue;
+    text-align: center;
+    margin-left:40px ;
+    border-radius: 5px;
+    
+}
+.desing:hover  {
+    background-color: red;
+  
+}
